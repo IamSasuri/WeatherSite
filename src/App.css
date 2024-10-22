@@ -1,0 +1,17 @@
+body,
+html {
+        /* The image used */
+        background-image: url("../public/Images/Background.jpg");
+
+        /* Full height */
+        height: 100%;
+
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.App {
+        height: 100%;
+}
